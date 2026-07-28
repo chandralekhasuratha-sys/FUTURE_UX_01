@@ -1,52 +1,20 @@
-\# FUTURE\_UX\_01
+\# Business Understanding
 
 
 
+\## Objective
 
-
-\## Rafters Interio Website Redesign
-
-
-
-
-
-This repository contains the complete UX case study for the Rafters Interio website redesign completed as part of the Future Interns UI/UX Design Internship.
+Understand the business goals and project scope.
 
 
 
+\## Deliverables
 
+\- Business Goals
 
-\## UX Process
+\- User Goals
 
+\- Problem Statement
 
-
-
-
-\- Business Understanding
-
-\- Competitor Analysis
-
-\- Website Audit
-
-\- Research Synthesis
-
-\- Affinity Mapping
-
-\- Key UX Insights
-
-\- Personas
-
-\- Empathy Maps
-
-\- HMW Statements
-
-\- Information Architecture
-
-\- User Flows
-
-\- Low-Fidelity Wireframes
-
-\- High-Fidelity UI
-
-\- Prototype
+\- Success Metrics
 
