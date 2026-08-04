@@ -1,10 +1,10 @@
-\# Business Understanding
+ BUSINESS UNDERSTANDIG :
 
 
 
 
 
-\## Project Overview
+ Project Overview :
 
 
 
@@ -16,27 +16,27 @@ This project focuses on redesigning the Rafters Interio website as part of the F
 
 
 
-\## Business Objective
+ Business Objective :
 
 
 
 
 
-\- Increase consultation inquiries.
+- Increase consultation inquiries.
 
-\- Build trust and credibility with potential clients.
+- Build trust and credibility with potential clients.
 
-\- Showcase completed interior design projects effectively.
+- Showcase completed interior design projects effectively.
 
-\- Improve the overall user experience.
+- Improve the overall user experience.
 
-\- Strengthen the company's online presence.
-
-
+- Strengthen the company's online presence.
 
 
 
-\## Problem Statement
+
+
+ Problem Statement :
 
 
 
@@ -48,67 +48,66 @@ Although the current website has a clean and modern appearance, it does not clea
 
 
 
-\## Project Goals
+ Project Goals :
+
+
+
+
+- Understand the business and user needs.
+
+- Conduct UX research and usability evaluation.
+
+- Identify pain points in the existing experience.
+
+- Create research-driven design solutions.
+
+- Design an intuitive and user-friendly interface.
 
 
 
 
 
-\- Understand the business and user needs.
-
-\- Conduct UX research and usability evaluation.
-
-\- Identify pain points in the existing experience.
-
-\- Create research-driven design solutions.
-
-\- Design an intuitive and user-friendly interface.
+ Expected Deliverables :
 
 
 
 
 
-\## Expected Deliverables
+- Business Understanding
+
+- Competitor Analysis
+
+- Website Audit
+
+- Nielsen's Heuristic Evaluation
+
+- Research Synthesis
+
+- Affinity Mapping
+
+- User Personas
+
+- Empathy Maps
+
+- How Might We (HMW) Statements
+
+- Information Architecture
+
+- User Flow
+
+- Low-Fidelity Wireframes
+
+- High-Fidelity UI Design
+
+- Interactive Prototype
+
+- Final Outcomes And Learnings
 
 
 
 
 
-\- Business Understanding
-
-\- Competitor Analysis
-
-\- Website Audit
-
-\- Nielsen's Heuristic Evaluation
-
-\- Research Synthesis
-
-\- Affinity Mapping
-
-\- User Personas
-
-\- Empathy Maps
-
-\- How Might We (HMW) Statements
-
-\- Information Architecture
-
-\- User Flow
-
-\- Low-Fidelity Wireframes
-
-\- High-Fidelity UI Design
-
-\- Interactive Prototype
-
-\- UX Case Study
-
-
-
-
-
-\## Outcome
+ Outcome :
 
 
 
@@ -120,8 +119,7 @@ A clear understanding of the business goals, user needs, and project scope was e
 
 
 
-\## Next Step
-
+ Next Step :
 
 
 
