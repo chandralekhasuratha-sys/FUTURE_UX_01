@@ -1,4 +1,4 @@
-\# Empathy Maps
+Empathy Maps :
 
 
 
@@ -6,17 +6,17 @@ The empathy maps summarize what users:
 
 
 
-\- Think
+- Think
 
-\- Feel
+- Feel
 
-\- See
+- See
 
-\- Hear
+- Hear
 
-\- Say
+- Say
 
-\- Do
+- Do
 
 
 
