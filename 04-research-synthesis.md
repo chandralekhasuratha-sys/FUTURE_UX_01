@@ -1,8 +1,8 @@
-\# Research Synthesis
+RESEARCH SYNTHESIS :
 
 
 
-\## Purpose
+ Purpose :
 
 
 
@@ -10,43 +10,43 @@ The research synthesis combines findings from the website audit and competitor a
 
 
 
-\## Key Findings
+ Key Findings :
 
 
 
-\- Users want to quickly understand the company's services.
+- Users want to quickly understand the company's services.
 
-\- Trust plays an important role before users contact the company.
+- Trust plays an important role before users contact the company.
 
-\- Users compare multiple interior design companies before making a decision.
+- Users compare multiple interior design companies before making a decision.
 
-\- A strong portfolio influences user confidence.
-
-
-
-\## User Needs
+- A strong portfolio influences user confidence.
 
 
 
-\- Clear navigation
-
-\- Easy portfolio access
-
-\- Transparent consultation process
-
-\- Trustworthy brand presentation
+ User Needs :
 
 
 
-\## Pain Points
+- Clear navigation
+
+- Easy portfolio access
+
+- Transparent consultation process
+
+- Trustworthy brand presentation
 
 
 
-\- Unclear value proposition
+ Pain Points :
 
-\- Limited trust indicators
 
-\- Difficult project discovery
 
-\- Consultation process not immediately visible
+- Unclear value proposition
+
+- Limited trust indicators
+
+- Difficult project discovery
+
+- Consultation process not immediately visible
 
