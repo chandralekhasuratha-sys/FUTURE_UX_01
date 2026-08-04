@@ -1,8 +1,8 @@
-\# User Personas
+ User Personas
 
 
 
-\## Primary Persona
+ Primary Persona
 
 
 
@@ -12,15 +12,15 @@ Working Professional Planning a Family Home
 
 Focus:
 
-\- Trust
+- Trust
 
-\- Portfolio
+- Portfolio
 
-\- Consultation
+- Consultation
 
 
 
-\## Secondary Persona
+Secondary Persona :
 
 
 
@@ -30,9 +30,9 @@ Business Owner Planning a Premium Residential Project
 
 Focus:
 
-\- Quality
+- Quality
 
-\- Experience
+- Experience
 
-\- Professional Guidance
+- Professional Guidance
 
