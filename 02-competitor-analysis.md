@@ -1,8 +1,8 @@
-\# Competitor Analysis
+ COMPETITOR ANALYSIS :
 
 
 
-\## Purpose
+ Purpose :
 
 
 
@@ -10,7 +10,7 @@ The competitor analysis was conducted to understand how competing interior desig
 
 
 
-\## Competitors Analyzed
+ Competitors Analyzed :
 
 
 
@@ -22,15 +22,16 @@ The competitor analysis was conducted to understand how competing interior desig
 
 
 
-\## Analysis Summary
+ Analysis Summary :
 
 
 
-\### iCraft Designz
+ iCraft Designz :
 
 
 
-Strengths
+Strengths :
+
 
 \- Modern visual design
 
@@ -40,7 +41,8 @@ Strengths
 
 
 
-Weaknesses
+Weaknesses :
+
 
 \- Limited explanation of the design process
 
@@ -48,11 +50,13 @@ Weaknesses
 
 
 
-\### Faithwood
+ Faithwood :
 
 
 
-Strengths
+
+Strengths :
+
 
 \- Clean navigation
 
@@ -62,7 +66,8 @@ Strengths
 
 
 
-Weaknesses
+Weaknesses :
+
 
 \- Homepage contains a large amount of information
 
@@ -70,11 +75,12 @@ Weaknesses
 
 
 
-\### SHA Interiors
+ SHA Interiors :
 
 
 
-Strengths
+Strengths :
+
 
 \- Attractive project showcase
 
@@ -84,7 +90,8 @@ Strengths
 
 
 
-Weaknesses
+Weaknesses :
+
 
 \- Some pages require multiple clicks
 
@@ -92,7 +99,7 @@ Weaknesses
 
 
 
-\## Opportunities for Rafters Interio
+ Opportunities for Rafters Interio :
 
 
 
