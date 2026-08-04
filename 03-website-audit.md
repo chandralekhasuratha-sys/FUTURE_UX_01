@@ -1,8 +1,8 @@
-\# Website Audit
+ WEBSITE AUDIT :
 
 
 
-\## Purpose
+ Purpose :
 
 
 
@@ -10,71 +10,71 @@ The website audit was conducted to identify usability issues in the existing Raf
 
 
 
-\## Findings
+ Findings :
 
 
 
-\### Homepage
+ Homepage :
 
 
 
-\- Value proposition is not immediately clear.
+- Value proposition is not immediately clear.
 
-\- Hero section could better communicate the company's services.
-
-
-
-\### Navigation
+- Hero section could better communicate the company's services.
 
 
 
-\- Navigation hierarchy can be improved.
-
-\- Important pages require better organization.
+ Navigation :
 
 
 
-\### Portfolio
+- Navigation hierarchy can be improved.
+
+- Important pages require better organization.
 
 
 
-\- Projects are not easy to browse.
-
-\- Project categorization can be improved.
+ Portfolio :
 
 
 
-\### Trust
+- Projects are not easy to browse.
+
+- Project categorization can be improved.
 
 
 
-\- Testimonials and trust indicators are not prominently displayed.
-
-\- Users may need more confidence before contacting the company.
+ Trust :
 
 
 
-\### Call-to-Action
+- Testimonials and trust indicators are not prominently displayed.
+
+- Users may need more confidence before contacting the company.
 
 
 
-\- Consultation CTA could be more visible.
-
-\- Contact process should be simplified.
+ Call-to-Action :
 
 
 
-\## Improvement Opportunities
+- Consultation CTA could be more visible.
+
+- Contact process should be simplified.
 
 
 
-\- Improve homepage hierarchy.
+ Improvement Opportunities :
 
-\- Enhance portfolio organization.
 
-\- Strengthen trust-building elements.
 
-\- Simplify the consultation journey.
+- Improve homepage hierarchy.
 
-\- Create a clearer and more intuitive navigation structure.
+- Enhance portfolio organization.
+
+- Strengthen trust-building elements.
+
+- Simplify the consultation journey.
+
+- Create a clearer and more intuitive navigation structure.
 
